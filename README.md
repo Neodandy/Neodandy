@@ -12,7 +12,6 @@
 - 🚩 I'm looking for a job as a Front-End Developer.
 
 <!--###  Portfolio 💻 -->
-
 ###  Contact Me 🌎
 > <a  href="www.linkedin.com/in/neodandy"  target="_blank">linkedin.com/in/neodandy</a>
 
