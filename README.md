@@ -33,4 +33,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-orange.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lukecorrea30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neodandy)
-[![Email](https://img.shields.io/badge/Email-critical.svg?&style=flat-square&logo=Gmail&logoColor=white)](neodandy@live.com.ar)
+[![Email](https://img.shields.io/badge/Email-critical.svg?&style=flat-square&logo=Gmail&logoColor=white)](mailto:neodandy@live.com.ar)
