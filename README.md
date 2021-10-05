@@ -13,7 +13,7 @@
 
 <!--###  Portfolio 💻 -->
 ###  Contact Me 🌎
-> <a  href="www.linkedin.com/in/neodandy"  target="_blank">linkedin.com/in/neodandy</a>
+> <a  href="linkedin.com/in/neodandy"  target="_blank">linkedin.com/in/neodandy</a>
 
 ###  Tech Content Here 📸
 > <a  href="https://www.instagram.com/lukecorrea30"  target="_blank">instagram.com/lukecorrea30</a>
