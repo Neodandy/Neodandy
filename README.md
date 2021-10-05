@@ -7,7 +7,7 @@
 - 📚 I’m in my first year of Programmer.
 - 💻 I’m currently learning Web and mobile development.
 - 💬 Ask me about my projects!
-- 📫 How to reach me: Neodandy@live.com.ar
+- 📫 How to reach me: neodandy@live.com.ar
 - ⚡ I love learning new things and exploring new technologies.
 - 🚩 I'm looking for a job as a Front-End Developer.
 
