@@ -16,7 +16,7 @@
 > <a  href="https://www.linkedin.com/in/neodandy"  target="_blank">linkedin.com/in/neodandy</a>
 
 ###  Tech Content Here 📸
-> <a  href="https://www.instagram.com/lukecorrea31"  target="_blank">instagram.com/lukecorrea30</a>
+> <a  href="https://www.instagram.com/lukecorrea31"  target="_blank">instagram.com/lukecorrea31</a>
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-now-playing-tau-teal.vercel.app/api/spotify)](https://open.spotify.com/user/Neodandy)
